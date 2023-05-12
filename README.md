@@ -1,6 +1,6 @@
-# Rup-Event Site
+# Ezent Site
 
-Rup-Event-Site is built with React.
+Ezent-Site is built with React.
 
 ## Demo
 
