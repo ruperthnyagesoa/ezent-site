@@ -48,11 +48,8 @@ function Footer() {
 						<SocialIcon src='./assets/logo.svg' />
 						{websiteName}
 					</SocialLogo>
-					<WebsiteRights>{websiteName} © 2022</WebsiteRights>
+					<WebsiteRights>{websiteName} © 2023</WebsiteRights>
 					<SocialIcons>
-						<SocialIconLink href='/' target='_blank' aria-label='Facebook'>
-							<FaFacebook />
-						</SocialIconLink>
 						<SocialIconLink href='/' target='_blank' aria-label='Instagram'>
 							<FaInstagram />
 						</SocialIconLink>
