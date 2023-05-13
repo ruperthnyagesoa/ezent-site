@@ -4,7 +4,7 @@ Rup-Event-Site is built with React.
 
 ## Demo
 
-[Link]()
+[Link](https://ezent.vercel.app/)
 
 ## Getting Started
 
@@ -29,6 +29,12 @@ Build and run the compiled version with the build and start scripts:
     npm run build
     npm run start
 
+## Things to improve
+
+- Codecov
+- Project requirements!
+
+
 ## Contact
 
 Feel free to find and contact me at the following:
@@ -39,3 +45,5 @@ Feel free to find and contact me at the following:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruperth-nyagesoa/)
 
 </div>
+
+# Thank you
